@@ -7,7 +7,7 @@ description: Explains about platforms for enterprise solutions.
 
 - It is used to develop scalable, robust, secured enterprise applications using Java.
 - It is a server side component that enccapsulates the business lofic of an application.
-- The business logic is the code that fulfills the purpose of the pplication.
+- The business logic is the code that fulfills the purpose of the application.
 - For eg: In an inventory control application, the enterprise beans might implement the business logic in methods called checkInventoryLevel and orderProduct.
   By invoking these methods, clients can access the inventory services provided by the application.
 
